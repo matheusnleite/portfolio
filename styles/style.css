@@ -50,7 +50,7 @@ body {
   gap: 82px;
 }
 .apresentacao__conteudo {
-  width: 615px;
+  width: 50%px;
   display: flex;
   flex-direction: column;
   gap: 40px;
